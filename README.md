@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrittneeAlexis
-- 👀 I’m  learning to become an awesome front end developer. 
-- 🌱 I’m currently learning React Native.
+- 👀 I’m  an awesome front end developer and designer
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on some ecommerce websites.
 - 📫 How to reach me please feel to reach me hirebrittnee@gmail.com
 
